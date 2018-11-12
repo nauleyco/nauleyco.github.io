@@ -2,9 +2,9 @@
 
 - Senior Web Application Developer
 - <a href="http://www.zend.com/en/yellow-pages/ZEND004652" target="_blank">Zend Certified Engineer</a>
-- <a href="https://www.zendcon.com/" target="_blank">ZendCon</a> (Attendee)
-- <a href="http://phpcon.php.gr.jp" target="_blank">PHP Conference JAPAN</a> (Staff)
-- <a href="https://phperkaigi.jp" target="_blank">PHPerKaigi</a> (Staff)
+- <a href="https://www.zendcon.com/" target="_blank">ZendCon in Las Vegas</a> (Attendee)
+- <a href="http://phpcon.php.gr.jp" target="_blank">PHP Conference Tokyo in JAPAN</a> (Staff)
+- <a href="https://phperkaigi.jp" target="_blank">PHPerKaigi in JAPAN</a> (Staff)
 - <a href="https://twitter.com/nauleyco" target="_blank">Twitter</a>
 - <a href="https://www.facebook.com/nauleyco" target="_blank">Facebook</a>
 - <a href="https://www.linkedin.com/in/nauleyco/?locale=en_US" target="_blank">LinkedIn</a>
