@@ -10,7 +10,6 @@
 - <a href="https://www.linkedin.com/in/nauleyco/?locale=en_US" target="_blank">LinkedIn</a>
 - <a href="https://www.flickr.com/people/lllnorikolll-300er/" target="_blank">Flickr</a>
 
-### Twitter
 
 <a class="twitter-timeline" href="https://twitter.com/nauleyco?ref_src=twsrc%5Etfw">Tweets by nauleyco</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
