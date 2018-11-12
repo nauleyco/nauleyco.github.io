@@ -1,5 +1,9 @@
 theme: jekyll-theme-minimal
 title: "nauleyco"
-description: "Profile"
+description: "@nauleyco
+I am a PHP developer. 
+i ℒℴѵℯ php ♡ i ℒℴѵℯ boeing ♡. 
+I am a member of JAPAN PHP User Group. 
+Please join us!"
 logo: "/assets/images/icon.jpg"
-show_downloads: "true"
+show_downloads: "false"
