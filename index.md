@@ -12,7 +12,7 @@
 
 ###
 
-<a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/lllnorikolll-300er/albums/72157668778865336" title="exhibition"><img src="https://farm6.staticflickr.com/5721/22430591885_11d7c5bb3a_m.jpg" width="240" height="160" alt="exhibition"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/lllnorikolll-300er/albums/72157668778865336" title="exhibition"><img src="https://farm6.staticflickr.com/5721/22430591885_11d7c5bb3a_z.jpg" width="640" height="426" alt="exhibition"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ###
 
