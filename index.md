@@ -1,11 +1,16 @@
 ## Noriko YAMAMOTO
 
 - Senior Web Application Developer
-- [Zend Certified Engineer](http://www.zend.com/en/yellow-pages/ZEND004652)
-- [ZendCon](https://www.zendcon.com/) (Attendee)
-- [PHP Conference JAPAN](http://phpcon.php.gr.jp) (Staff)
-- [PHPerKaigi](https://phperkaigi.jp) (Staff)
-- [Twitter](https://twitter.com/nauleyco)
-- [Facebook](https://www.facebook.com/nauleyco)
-- [LinkedIn](https://www.linkedin.com/in/nauleyco/?locale=en_US)
-- [Flickr](https://www.flickr.com/people/lllnorikolll-300er/)
+- <a href="http://www.zend.com/en/yellow-pages/ZEND004652" target="_blank">Zend Certified Engineer</a>
+- <a href="https://www.zendcon.com/" target="_blank">ZendCon</a> (Attendee)
+- <a href="http://phpcon.php.gr.jp" target="_blank">PHP Conference JAPAN</a> (Staff)
+- <a href="https://phperkaigi.jp" target="_blank">PHPerKaigi</a> (Staff)
+- <a href="https://twitter.com/nauleyco" target="_blank">Twitter</a>
+- <a href="https://www.facebook.com/nauleyco" target="_blank">Facebook</a>
+- <a href="https://www.linkedin.com/in/nauleyco/?locale=en_US" target="_blank">LinkedIn</a>
+- <a href="https://www.flickr.com/people/lllnorikolll-300er/" target="_blank">Flickr</a>
+
+### Twitter
+
+<a class="twitter-timeline" href="https://twitter.com/nauleyco?ref_src=twsrc%5Etfw">Tweets by nauleyco</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
