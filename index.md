@@ -10,7 +10,11 @@
 - <a href="https://www.linkedin.com/in/nauleyco/?locale=en_US" target="_blank">LinkedIn</a>
 - <a href="https://www.flickr.com/people/lllnorikolll-300er/" target="_blank">Flickr</a>
 
+###
+
 <a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/lllnorikolll-300er/albums/72157668778865336" title="exhibition"><img src="https://farm6.staticflickr.com/5721/22430591885_11d7c5bb3a_m.jpg" width="240" height="160" alt="exhibition"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+###
 
 <a class="twitter-timeline" href="https://twitter.com/nauleyco?ref_src=twsrc%5Etfw">Tweets by nauleyco</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
