@@ -8,6 +8,8 @@
 - <a href="https://www.zendcon.com/" target="_blank">ZendCon in Las Vegas</a> (Attendee)
 
 - <a href="https://twitter.com/nauleyco" target="_blank">Twitter</a>
+- <a href="https://phpc.social/@nauleyco" target="_blank">Mastodon phpc.social</a>
+- <a href="https://dev.to/nauleyco" target="_blank">DEV</a>
 - <a href="https://www.instagram.com/nauleyco/" target="_blank">Instagram</a>
 - <a href="https://www.facebook.com/nauleyco" target="_blank">Facebook</a>
 - <a href="https://www.linkedin.com/in/nauleyco/?locale=en_US" target="_blank">LinkedIn</a>
